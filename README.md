@@ -1,6 +1,6 @@
 # FoodApp
 
-* A React Native App that shows a list of food from JSON Server fro learning react native
+* A React Native App that shows a list of food from JSON Server for learning react native
 * From course The complete React Native + Hooks [2020 Edition]
 
 
